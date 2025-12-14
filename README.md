@@ -60,7 +60,7 @@ Daily color guidance based on Korean astrology:
 - **Geocoding**: Open-Meteo Geocoding API
 - **Sunrise/Sunset**: Sunrise-Sunset.org API
 
-## 🚀 Getting Started
+## Getting Started
 ```bash
 # Install dependencies
 npm install
